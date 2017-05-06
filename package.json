@@ -3,7 +3,7 @@
     "markdown-toc": "^1.1.0"
   },
   "bin": {
-    "toc": "index.js"
+    "md-toc": "index.js"
   },
   "name": "md-toc",
   "private": true,
